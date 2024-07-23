@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/pyfilemanager.git
+git clone https://github.com/rj73/pyfilemanager.git
 Navigate to the project directory:
 
 bash
